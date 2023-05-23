@@ -211,7 +211,7 @@ Please cite [[1]](https://arxiv.org/abs/2305.12818) and [[2]](https://arxiv.org/
   author={Liu, Yihong and Ye, Haotian and Weissweiler, Leonie and Schuetze, Hinrich},
   journal={arxiv},
   year={2023},
-  url={},
+  url={https://arxiv.org/abs/2305.12818},
 }
 ```
 
@@ -226,7 +226,7 @@ Please cite [[1]](https://arxiv.org/abs/2305.12818) and [[2]](https://arxiv.org/
   year = "2023",
   address = "Toronto, Canada",
   publisher = "Association for Computational Linguistics",
-  url = "",
+  url = "https://arxiv.org/abs/2305.08475",
 }
 ```
 
