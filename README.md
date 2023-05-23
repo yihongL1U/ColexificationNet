@@ -116,6 +116,9 @@ cd network_related
 python -u train_different_min_language_embedding.py
 ```
 
+You could find our published embeddings and networks [here](https://doi.org/10.5281/zenodo.7920596
+).
+
 ## Evaluations
 
 ### Baselines
@@ -198,10 +201,10 @@ Please then refer to `./eva/baseline_vectors/sentence_classification.ipynb` for 
 
 ## References
 
-Please cite [[1]](https://arxiv.org/abs/2305.08475) and [[2]](https://arxiv.org/abs/2305.08475) if you found the resources in this repository useful.
+Please cite [[1]](https://arxiv.org/abs/2305.12818) and [[2]](https://arxiv.org/abs/2305.08475) if you found the resources in this repository useful.
 
 ### Crosslingual Transfer Learning for Low-Resource Languages Based on Multilingual Colexification Graphs
-[1] Y. Liu, H. Ye, L. Weissweiler, H. Schuetze [*Crosslingual Transfer Learning for Low-Resource Languages Based on Multilingual Colexification Graphs*](https://arxiv.org/abs/2305.08475)
+[1] Y. Liu, H. Ye, L. Weissweiler, H. Schuetze [*Crosslingual Transfer Learning for Low-Resource Languages Based on Multilingual Colexification Graphs*](https://arxiv.org/abs/2305.12818)
 ```
 @article{liu2023colexnet,
   title={Transfer Learning for Low-Resource Languages Based on Multilingual Colexification Graphs},
