@@ -216,7 +216,7 @@ Please cite [[1]](https://arxiv.org/abs/2305.12818) and [[2]](https://arxiv.org/
 ```
 
 ### A Crosslingual Investigation of Conceptualization in 1335 Languages
-[2] Y. Liu, H. Ye, L. Weissweiler, P. Wicke, R. Pei, R. Zangenfeind, H. Schuetze [*A Crosslingual Investigation of Conceptualization in 1335 Languages*](https://arxiv.org/abs/2305.08475)
+[2] Y. Liu, H. Ye, L. Weissweiler, P. Wicke, R. Pei, R. Zangenfeind, H. Schuetze [*A Crosslingual Investigation of Conceptualization in 1335 Languages*](https://aclanthology.org/2023.acl-long.726)
 
 ```
 @inproceedings{liu-etal-2023-crosslingual,
