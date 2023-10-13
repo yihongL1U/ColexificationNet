@@ -219,14 +219,23 @@ Please cite [[1]](https://arxiv.org/abs/2305.12818) and [[2]](https://arxiv.org/
 [2] Y. Liu, H. Ye, L. Weissweiler, P. Wicke, R. Pei, R. Zangenfeind, H. Schuetze [*A Crosslingual Investigation of Conceptualization in 1335 Languages*](https://arxiv.org/abs/2305.08475)
 
 ```
-@inproceedings{liu2023conceptualizer,
-  title = "A Crosslingual Investigation of Conceptualization in 1335 Languages",
-  author = "Liu, Yihong and Ye, Haotian and Weissweiler, Leonie and Wicke, Philipp and Pei, Renhao and Zangenfeind, Robert and Schuetze, Hinrich",
-  booktitle = "Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",  
-  year = "2023",
-  address = "Toronto, Canada",
-  publisher = "Association for Computational Linguistics",
-  url = "https://arxiv.org/abs/2305.08475",
+@inproceedings{liu-etal-2023-crosslingual,
+    title = "A Crosslingual Investigation of Conceptualization in 1335 Languages",
+    author = {Liu, Yihong  and
+      Ye, Haotian  and
+      Weissweiler, Leonie  and
+      Wicke, Philipp  and
+      Pei, Renhao  and
+      Zangenfeind, Robert  and
+      Sch{\"u}tze, Hinrich},
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.726",
+    doi = "10.18653/v1/2023.acl-long.726",
+    pages = "12969--13000",
 }
 ```
 
